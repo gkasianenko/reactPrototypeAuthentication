@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/reactPrototypeAuthentication/static/css/main.b2540562.chunk.css",
-    "main.js": "/reactPrototypeAuthentication/static/js/main.64d6b54c.chunk.js",
-    "main.js.map": "/reactPrototypeAuthentication/static/js/main.64d6b54c.chunk.js.map",
+    "main.js": "/reactPrototypeAuthentication/static/js/main.66b7b5b0.chunk.js",
+    "main.js.map": "/reactPrototypeAuthentication/static/js/main.66b7b5b0.chunk.js.map",
     "runtime-main.js": "/reactPrototypeAuthentication/static/js/runtime-main.d0cb516a.js",
     "runtime-main.js.map": "/reactPrototypeAuthentication/static/js/runtime-main.d0cb516a.js.map",
-    "static/js/2.68826b6b.chunk.js": "/reactPrototypeAuthentication/static/js/2.68826b6b.chunk.js",
-    "static/js/2.68826b6b.chunk.js.map": "/reactPrototypeAuthentication/static/js/2.68826b6b.chunk.js.map",
+    "static/js/2.18625f69.chunk.js": "/reactPrototypeAuthentication/static/js/2.18625f69.chunk.js",
+    "static/js/2.18625f69.chunk.js.map": "/reactPrototypeAuthentication/static/js/2.18625f69.chunk.js.map",
     "index.html": "/reactPrototypeAuthentication/index.html",
     "static/css/main.b2540562.chunk.css.map": "/reactPrototypeAuthentication/static/css/main.b2540562.chunk.css.map",
-    "static/js/2.68826b6b.chunk.js.LICENSE.txt": "/reactPrototypeAuthentication/static/js/2.68826b6b.chunk.js.LICENSE.txt"
+    "static/js/2.18625f69.chunk.js.LICENSE.txt": "/reactPrototypeAuthentication/static/js/2.18625f69.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d0cb516a.js",
-    "static/js/2.68826b6b.chunk.js",
+    "static/js/2.18625f69.chunk.js",
     "static/css/main.b2540562.chunk.css",
-    "static/js/main.64d6b54c.chunk.js"
+    "static/js/main.66b7b5b0.chunk.js"
   ]
 }
