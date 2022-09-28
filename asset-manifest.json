@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactPrototypeAuthentication/static/css/main.b2540562.chunk.css",
-    "main.js": "/reactPrototypeAuthentication/static/js/main.8a307dc6.chunk.js",
-    "main.js.map": "/reactPrototypeAuthentication/static/js/main.8a307dc6.chunk.js.map",
+    "main.js": "/reactPrototypeAuthentication/static/js/main.d363ae0b.chunk.js",
+    "main.js.map": "/reactPrototypeAuthentication/static/js/main.d363ae0b.chunk.js.map",
     "runtime-main.js": "/reactPrototypeAuthentication/static/js/runtime-main.d0cb516a.js",
     "runtime-main.js.map": "/reactPrototypeAuthentication/static/js/runtime-main.d0cb516a.js.map",
     "static/js/2.5e5c82e5.chunk.js": "/reactPrototypeAuthentication/static/js/2.5e5c82e5.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.d0cb516a.js",
     "static/js/2.5e5c82e5.chunk.js",
     "static/css/main.b2540562.chunk.css",
-    "static/js/main.8a307dc6.chunk.js"
+    "static/js/main.d363ae0b.chunk.js"
   ]
 }
